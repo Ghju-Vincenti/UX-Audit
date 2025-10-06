@@ -1,0 +1,14 @@
+Critère,Score_Actuel,Objectif_Cible,Priorité
+Navigation mobile,3,8,Critique
+Lisibilité héros mobile,2,8,Critique
+Performance mobile (PageSpeed),54,85,Critique
+Performance bureau (PageSpeed),46,85,Critique
+Accessibilité,96,98,Modérée
+SEO,85,90,Modérée
+Bonnes pratiques,78,85,Modérée
+First Contentful Paint (mobile),10.6s,3s,Critique
+Largest Contentful Paint (mobile),25.6s,4s,Critique
+Total Blocking Time (mobile),130ms,50ms,Élevée
+First Contentful Paint (bureau),1.4s,1s,Élevée
+Largest Contentful Paint (bureau),2.2s,1.5s,Élevée
+Total Blocking Time (bureau),5190ms,300ms,Critique
