@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Audit UX PROSA - Présentation Interactive</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+</head>
+<body>
+    <div class="presentation-container">
+        <!-- Navigation -->
+        <nav class="slide-nav">
+            <div class="nav-controls">
+                <button id="prevBtn" class="nav-btn" aria-label="Slide précédent">
+                    <i class="fas fa-chevron-left"></i>
+                </button>
+                <span class="slide-counter">
+                    <span id="currentSlide">1</span> / <span id="totalSlides">23</span>
+                </span>
+                <button id="nextBtn" class="nav-btn" aria-label="Slide suivant">
+                    <i class="fas fa-chevron-right"></i>
+                </button>
+                <button id="fullscreenBtn" class="nav-btn" aria-label="Plein écran">
+                    <i class="fas fa-expand"></i>
+                </button>
+            </div>
+        </nav>
+
+        <!-- Slides Container -->
+        <div class="slides-wrapper">
+            <!-- Slides will be injected by app.js for maintainability -->
+        </div>
+
+        <!-- Progress bar -->
+        <div class="progress-indicator">
+            <div class="progress-bar-container">
+                <div class="progress-bar-fill" id="progressFill"></div>
+            </div>
+        </div>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+</html>

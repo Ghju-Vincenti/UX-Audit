@@ -1,0 +1,15 @@
+Action,Impact_Utilisateur,Complexité_Technique,Délai_Estimation,Ressources_Requises
+Minifier CSS/JS,Élevé,Faible,3 jours,Développeur
+Lazy loading images,Élevé,Faible,2 jours,Développeur
+Corriger contraste texte héros,Élevé,Faible,1 jour,Designer
+Différencier personnages visuellement,Élevé,Faible,3 jours,Designer
+Mise en place cache navigateur,Élevé,Modérée,1 semaine,Développeur + DevOps
+Supprimer système combat,Élevé,Modérée,1 semaine,Développeur
+Optimiser responsive design,Élevé,Modérée,1 semaine,Développeur
+"Optimiser images (WebP, compression)",Très élevé,Faible,1 semaine,Développeur
+Augmenter zones cliquables (44px min),Très élevé,Faible,1 jour,Designer
+Créer onboarding narratif clair,Très élevé,Modérée,2 semaines,UX/UI Designer
+Ajouter mode alternatif sans AR,Très élevé,Élevée,3 semaines,Équipe complète
+Améliorer dialogues (éviter IA),Très élevé,Élevée,3 semaines,UX Writer + Développeur
+Ajouter animations micro-interactions,Modéré,Modérée,1 semaine,Développeur
+Implémenter système sauvegarde,Critique,Modérée,2 semaines,Développeur senior
